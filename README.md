@@ -1,4 +1,4 @@
-# EAMS_Service
+# Employee Attendance Management S (EAMS_Service)
 
 - `public` - For css stylesheets, images and assets
 - `models` - Data models
@@ -6,3 +6,4 @@
 - `routes` - For route endpoints
 - `views`  - ejs Views
   
+
