@@ -28,5 +28,8 @@
   "homepage": "https://github.com/SirriCelles/EAMS_Service#readme",
   "devDependencies": {
     "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
   }
 }
