@@ -1,0 +1,32 @@
+{
+  "name": "eams_service",
+  "version": "1.0.0",
+  "description": "This is an Employee Attendance Management System",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon --exec babel-node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SirriCelles/EAMS_Service.git"
+  },
+  "keywords": [
+    "employee",
+    "attendance",
+    "system",
+    "management",
+    "api",
+    "restful",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SirriCelles/EAMS_Service/issues"
+  },
+  "homepage": "https://github.com/SirriCelles/EAMS_Service#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

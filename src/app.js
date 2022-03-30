@@ -1,0 +1,1 @@
+import 'dotenv/config'; // use this import to access enviroment variables

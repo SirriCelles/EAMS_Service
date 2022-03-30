@@ -1,0 +1,10 @@
+/*
+Now you can include upcoming JavaScript features in your src/index.js file. If you run into problems because your desired feature is not working, check whether there exists a dedicated Babel preset for it.
+*/
+
+
+{
+    "presets": [
+      "@babel/preset-env"
+    ]
+  }
