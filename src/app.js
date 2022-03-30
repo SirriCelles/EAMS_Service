@@ -1,10 +1,14 @@
 import 'dotenv/config'; // use this import to access enviroment variables
+import cors from 'cors';
 import express from 'express';
 
+const port  = process.env.PORT;
 
 
 const app = express();
-const port  = process.env.PORT;
+app.use(cors);
+
+
 
 
 
